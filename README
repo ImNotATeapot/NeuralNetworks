@@ -1,0 +1,4 @@
+install NumPy library and run reader.py 
+
+git clone https://github.com/numpy/numpy.git numpy
+or https://www.scipy.org/scipylib/download.html
